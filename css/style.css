@@ -33,6 +33,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-weight: 400; 
     background-color:rgba(146, 144, 144, 0.822);
+    overflow-x: hidden;
     
 }
 
