@@ -284,7 +284,9 @@ body{
 
 span{
     color:black;
+    font-weight: bold;
     background-color:yellow;
+    text-shadow:none;
 }
 
 .firstScreenEnd {
